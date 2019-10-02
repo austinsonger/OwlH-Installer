@@ -19,6 +19,7 @@
     ],
     "masterfiles":[
         "main.conf",
+        "dispatcher-nodes.json",
         "app.conf"
     ],
     "nodefiles":[
